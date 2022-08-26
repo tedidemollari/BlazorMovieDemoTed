@@ -1,0 +1,24 @@
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.deps.json
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.csproj.AssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\refint\BlazorMovies.Shared.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\ref\BlazorMovies.Shared.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.deps.json
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.csproj.AssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\obj\Debug\net5.0\refint\BlazorMovies.Shared.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Shared\obj\Debug\net5.0\ref\BlazorMovies.Shared.dll

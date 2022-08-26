@@ -1,0 +1,188 @@
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Client.StaticWebAssets.xml
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.StaticWebAssets.xml
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.exe
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.deps.json
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.runtimeconfig.dev.json
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.Views.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.Views.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Markdig.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\MathNet.Numerics.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Client.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Shared.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Client.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Shared.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.csproj.AssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.RazorAssemblyInfo.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.RazorAssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\scopedcss\bundle\BlazorMovies.Server.styles.css
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\staticwebassets\BlazorMovies.Server.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\staticwebassets\BlazorMovies.Server.StaticWebAssets.xml
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.TagHelpers.input.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.TagHelpers.output.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.RazorCoreGenerate.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.Views.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.csproj.CopyComplete
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\refint\BlazorMovies.Server.dll
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.pdb
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.genruntimeconfig.cache
+C:\Users\Lenovo\RiderProjects\MoviesDemoBlazor\BlazorMovies\ASP.NET Core 5\Module 6 - HTTP and Entity Framework Core\End\BlazorMovies\BlazorMovies\Server\obj\Debug\net5.0\ref\BlazorMovies.Server.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Client.StaticWebAssets.xml
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.StaticWebAssets.xml
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.exe
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.deps.json
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.runtimeconfig.dev.json
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.Views.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Server.Views.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Markdig.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\MathNet.Numerics.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Client.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Shared.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Client.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\bin\Debug\net5.0\BlazorMovies.Shared.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.csproj.AssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.RazorAssemblyInfo.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.RazorAssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\scopedcss\bundle\BlazorMovies.Server.styles.css
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\staticwebassets\BlazorMovies.Server.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\staticwebassets\BlazorMovies.Server.StaticWebAssets.xml
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.TagHelpers.input.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.TagHelpers.output.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.RazorCoreGenerate.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.Views.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.csproj.CopyComplete
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\refint\BlazorMovies.Server.dll
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.pdb
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\BlazorMovies.Server.genruntimeconfig.cache
+C:\Users\Lenovo\RiderProjects\BlazorMovieDemo\BlazorMovies\Server\obj\Debug\net5.0\ref\BlazorMovies.Server.dll

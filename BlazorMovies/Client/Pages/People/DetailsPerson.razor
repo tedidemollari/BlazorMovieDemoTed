@@ -1,0 +1,42 @@
+﻿@page "/person/{PersonId:int}"
+@page "/person/{PersonId:int}/{PersonName}"
+@inject IPersonRepository personRepository
+
+@if (model == null)
+{
+    <text>Loading...</text>
+}
+else
+{
+    <h2>@model.Person.Name</h2>
+    <text> | </text>
+
+    <div style="display: flex">
+        <span style="display: inline-block; margin-right: 5px;"><img src="@model.Person.Picture" style="width: 225px; height: 315px" /></span>
+    </div>
+    <div style="margin-top: 10px;">
+        <h3>Movies</h3>
+        <div style="display: flex; flex-direction: column">
+            @foreach (var movie in model.Person.MoviesActors)
+            {
+                <div style="margin-bottom: 2px;">
+                    <img style="width: 50px;" src="@movie.Movie.Poster" />
+                    <span style="display:inline-block;width: 200px;"><a href="/movie/@movie.Movie.Id/@movie.Movie.Title.Replace(" ", "-")">@movie.Movie.Title</a></span>
+                    <span style="display:inline-block; width: 45px;">...</span>
+                    <span>@movie.Movie.Summary</span>
+                </div>
+            }
+        </div>
+    </div>
+}
+@code {
+    [Parameter] public int PersonId { get; set; }
+    [Parameter] public string PersonName { get; set; }
+    DetailsPersonDTO model;
+
+
+    protected async override Task OnInitializedAsync()  
+    {
+        model = await personRepository.GetDetailsPersonDTO(PersonId);
+    }
+}

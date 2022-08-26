@@ -1,0 +1,36 @@
+﻿<EditForm Model="Location" OnValidSubmit="OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label>Name:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@Location.Name" />
+            <ValidationMessage For="@(() => Location.Name)" />
+        </div>
+    </div>
+    <div class="form-group">
+        <InputImg Label="Picture" OnSelectedImage="LocationSelected" ImageURL="@imageURL" />
+    </div>
+
+    <button class="btn btn-success" type="submit">Save Changes</button>
+</EditForm>
+
+@code {
+    [Parameter] public Location Location { get; set; }
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+    private string imageURL;
+
+    protected override void OnInitialized()
+    {
+        if (!string.IsNullOrEmpty(Location.Poster))
+        {
+            imageURL = Location.Poster;
+            Location.Poster = null;
+        }
+    }
+    private void LocationSelected(string imageBase64)
+    {
+        Location.Poster = imageBase64;
+        imageURL = null;
+        Console.WriteLine(imageBase64);
+    }
+}

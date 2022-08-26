@@ -1,0 +1,36 @@
+﻿@inject IRepository rep;
+<div class="individual-movie-container">
+    <a href="@locationURL">
+        <img src="@Location.Poster" alt="Poster" class="location-poster" />
+    </a>
+    <p><a href="@locationURL">@Location.Name</a></p>
+    <div>
+        <a class="btn btn-info" href="/movies/edit/@Location.Id">Edit</a>
+        <button type="button" class="btn btn-danger"
+                @onclick="@(() => DeleteLocation.InvokeAsync(Location))">
+            Delete
+        </button>
+    </div>
+</div>
+
+
+@code {
+    [Parameter] public Location Location { get; set; }
+    [Parameter] public EventCallback<Location> DeleteLocation { get; set; }
+    private string locationURL = string.Empty;
+
+    protected override void OnInitialized()
+    {
+        locationURL = $"location/{Location.Id}/{Location.Name.Replace(" ", "-")}";
+    }
+    private async Task EditLocation (Location location)
+    {
+        Location newLocation = new Location()
+            {
+                Name = location.Name,
+                MoviesLocations = location.MoviesLocations,
+                Poster = location.Poster
+            };
+            Console.WriteLine(location.Name);
+    }
+}

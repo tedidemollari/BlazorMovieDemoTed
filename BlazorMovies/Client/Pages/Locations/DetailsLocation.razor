@@ -1,0 +1,42 @@
+﻿@page "/locations/{LocationId:int}"
+@inject ILocationRepository locationRepository
+
+@if (model == null)
+{
+    <text>Loading...</text>
+}
+else
+{
+    <h2>@model.Location.Name</h2>
+    <text> | </text>
+
+    <div style="display: flex">
+        <span style="display: inline-block; margin-right: 5px;"><img src="@model.Location.Poster" style="width: 225px; height: 315px" /></span>
+    </div>
+    <div style="margin-top: 10px;">
+        <h3>Movies</h3>
+        <div style="display: flex; flex-direction: column">
+            @foreach (var movie in model.Location.MoviesLocations)
+            {
+                <div style="margin-bottom: 2px;">
+                    <img style="width: 50px;" src="@movie.Movie.Poster" />
+                    <span style="display:inline-block;width: 200px;"><a href="/movie/@movie.Movie.Id/@movie.Movie.Title.Replace(" ", "-")">@movie.Movie.Title</a></span>
+                    <span style="display:inline-block; width: 45px;">...</span>
+                    <span>@movie.Movie.Summary</span>
+                </div>
+            }
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter] public int LocationId { get; set; }
+    [Parameter] public string LocationName { get; set; }
+    DetailsLocationDTO model;
+
+
+protected async override Task OnInitializedAsync()
+{
+        model = await locationRepository.GetDetailsLocationDTO(LocationId);
+}
+}

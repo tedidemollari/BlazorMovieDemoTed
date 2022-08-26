@@ -1,0 +1,39 @@
+﻿@inject IRepository rep;
+<div class="individual-movie-container">
+    <a href="@personURL">
+        <img src="@Person.Picture" alt="Picture" class="person-picture" />
+    </a>
+    <p><a href="@personURL">@Person.Name</a></p>
+    <div>
+        <a class="btn btn-info" href="/person/edit/@Person.Id">Edit</a>
+        <button type="button" class="btn btn-danger"
+                @onclick="@(() => DeletePerson.InvokeAsync(Person))">
+            Delete
+        </button>
+    </div>
+</div>
+
+
+@code {
+    [Parameter] public Person Person { get; set; }
+    [Parameter] public EventCallback<Person> DeletePerson { get; set; }
+    private string personURL = string.Empty;
+
+    protected override void OnInitialized()
+    {
+        personURL = $"person/{Person.Id}/{Person.Name.Replace(" ", "-")}";
+    }
+    private async Task EditLocation(Person person)
+    {
+        Person newLocation = new Person()
+            {
+                Name = person.Name,
+                MoviesActors = person.MoviesActors,
+                Picture = person.Picture,
+                Biography = person.Biography,
+                Character = person.Character,
+                DateOfBirth = person.DateOfBirth,
+            };
+            Console.WriteLine(person.Name);
+    }
+}

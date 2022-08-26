@@ -1,0 +1,56 @@
+﻿@page "/locations"
+@inject ILocationRepository locationRepository
+@inject NavigationManager navigationManager
+
+
+<div class="form-group">
+    <a class="btn btn-info" href="locations/create">New Location</a>
+</div>
+
+<GenericList List="Locations">
+    <WholeListTemplate>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Locations)
+                {
+                    <tr>
+                        <td>
+                            <a class="btn btn-success" href="/locations/edit/@item.Id">Edit</a>
+                            <button class="btn btn-danger" @onclick="@(() => DeleteLocations(item.Id))">Delete</button>
+                        </td>
+                        <td>@item.Name</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </WholeListTemplate>
+</GenericList>
+
+@code {
+
+    List<Location> Locations;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Locations = await locationRepository.GetLocations();
+        }
+        catch (Exception ex)
+        {
+
+        }
+    }
+
+    private async Task DeleteLocations(int Id)
+    {
+        await locationRepository.DeleteLocation(Id);
+        Locations = await locationRepository.GetLocations();
+    }
+}
